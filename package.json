@@ -1,0 +1,20 @@
+{
+  "name": "learn_data_structure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc --rootDir ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lh8725473/Learn_data_structure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lh8725473/Learn_data_structure/issues"
+  },
+  "homepage": "https://github.com/lh8725473/Learn_data_structure#readme"
+}
