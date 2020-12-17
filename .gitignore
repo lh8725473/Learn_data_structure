@@ -8,4 +8,5 @@ mochawesome-report/*
 dist/js/*
 dist-/*
 dist/ts/*
+dist/*
 snippet.js
