@@ -53,3 +53,5 @@ class Stack<T> {
     return objStr;
   }
 }
+
+export default Stack;
