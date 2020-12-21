@@ -34,5 +34,6 @@ stack.ts
 - toString()：打印栈信息
 
 ## 栈的应用
+test.ts
 
 
