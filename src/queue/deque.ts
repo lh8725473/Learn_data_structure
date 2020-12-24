@@ -78,3 +78,5 @@ class Deque<T> {
     this.lowestCount = 0;
   }
 }
+
+export default Deque;
