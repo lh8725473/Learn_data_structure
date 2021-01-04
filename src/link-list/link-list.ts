@@ -4,9 +4,9 @@ function defaultEquals<T>(a: T, b: T): boolean {
 }
 
 class LinkList<T> {
-  private count: number;
-  private head: Node<T> | undefined;
-  private equalsFn = defaultEquals;
+  protected count: number;
+  protected head: Node<T> | undefined;
+  protected equalsFn = defaultEquals;
 
   constructor() {
     this.count = 0;
